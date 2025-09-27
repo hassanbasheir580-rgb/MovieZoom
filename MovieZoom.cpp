@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 #include <limits>
- 
+
 using namespace std;
 
 // A struct to hold each title's name and its short description
@@ -156,5 +156,4 @@ int main()
 
     cout << "Thanks for using MovieZoom. Goodbye!\n";
     return 0;
-
 }
